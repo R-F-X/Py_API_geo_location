@@ -1,30 +1,35 @@
-# Program:  Geo
-- Desc:       Using APIs to display data about a specific country
+# Program:    Geo-location
+- Desc:       Using an API to display data about a geographic location based on an IPv4 address
 - Started:    04.01.23
-- Updated:    05.01.24
+- Updated:    17.05.24
 - Developer:  RFX
 - Status:     Work-in-progress
 ---
 
 ## More notes
 > Download
-- git clone https://github.com/trpl-A/Fork_Py_data.git
-- download zip
+- Download the zipped folder, and extract OR
+```
+git clone 
+```
 
 > Install required python modules
 - pip install -r requirements.txt 
+
+> Running the program from the command line
+```
+python main.py
+or 
+python main.py <IPv4 address>
+```
 ---
 
-## Versions
-> Version1 
-- 
-
-> Version2
-- 
----
 
 ## Sources of the APIs 
-- https://restcountries.com/
 - https://ipapi.co
 - https://ipwhois.io/
 ---
+
+### Screenshots
+!["screenshot2"](./$screenshots/sshot1.png)
+!["screenshot2"](./$screenshots/sshot2.png)
