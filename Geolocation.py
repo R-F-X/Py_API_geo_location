@@ -99,7 +99,7 @@ def test_main(): pass
    
 # ------------------------------------------
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
     # test_main()
-    print("\n<END OF TEST>")
+    # print("\n<END OF TEST>")
 # ------------------------------------------
