@@ -37,6 +37,6 @@ python main.py <IPv4 address>
 
 
 ### Screenshots
-!["default mode"](./$screenshots/sshot1.png)
+![default mode](./$screenshots/sshot1.png)
 
 !["command-line-arg mode"](./$screenshots/sshot2.png)
